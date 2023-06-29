@@ -12,6 +12,7 @@
   
  paste code given below in powershell 
  code:
+
  sudo-apt install golang-go 
   
  ## 3. jq needs to be installed 
