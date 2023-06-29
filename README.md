@@ -18,4 +18,21 @@ This repository contains all my work related to blockchain# Deployment of ERC-20
   
  Your metamask account should look something like this after mining the GoreliETH 
 ![IMG_20230629_134700.jpg](https://github.com/SumitSagar17/Blockchain/assets/138099141/77faa724-2e0f-43ca-99c0-2337e449426f)
+## 20 lab 
+  
+ 1. Go to given link: https://20lab.app/ (20lab is an ERC-20 token generator tool) 
+  
+ 2. Click on open app>Start 
+  
+ 3. Connect your wallet using connect wallet button and select metamask then once you see your account click on connect. 
+  
+ 4. Choose blockchain Goreli(Testnet), then enter your Token name, Token symbol, Initial supply (take very large number), 18 Decimals. 
+  
+ 5. Select your desired options and click validate & compile, it will open metamask and ask for gas fee for deploying your token 
+  
+ 6. View your token name and address in dashboard 
+  
+ 
+  
+ 
  
