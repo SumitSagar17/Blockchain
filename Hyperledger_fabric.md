@@ -20,8 +20,9 @@ code:
  (its like sed for JSON data) 
   
  paste code given below in powershell 
+code:
   
- sudo-apt install jq 
+     sudo-apt install jq 
   
  ## 4. Install Node/java 
  code: 
