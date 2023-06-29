@@ -31,6 +31,13 @@ This repository contains all my work related to blockchain# Deployment of ERC-20
  5. Select your desired options and click validate & compile, it will open metamask and ask for gas fee for deploying your token 
   
  6. View your token name and address in dashboard 
+
+
+ I named my token as "SUMIT SAGAR" and kept its symbol as "SAG" 
+  
+  
+  
+  ## To see the transaction history of the token go to https://goerli.etherscan.io/ and paste your token address from 20 lab
   
  
   
