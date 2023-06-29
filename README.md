@@ -17,5 +17,5 @@ This repository contains all my work related to blockchain# Deployment of ERC-20
  4. Claim 0.01 GoerliETH or more. 
   
  Your metamask account should look something like this after mining the GoreliETH 
-![IMG_20230629_134024.jpg](https://github.com/SumitSagar17/Blockchain/assets/138099141/b2eb809c-0da4-40c1-9a4c-5a1fd14d192b)
+![IMG_20230629_134700.jpg](https://github.com/SumitSagar17/Blockchain/assets/138099141/77faa724-2e0f-43ca-99c0-2337e449426f)
  
