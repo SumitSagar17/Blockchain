@@ -38,6 +38,7 @@ This repository contains all my work related to blockchain# Deployment of ERC-20
   
   
   ## To see the transaction history of the token go to https://goerli.etherscan.io/ and paste your token address from 20 lab
+![IMG_20230629_142856.jpg](https://github.com/SumitSagar17/Blockchain/assets/138099141/32e80a80-862b-455d-9fe8-227bcd9a01d3)
   
  
   
