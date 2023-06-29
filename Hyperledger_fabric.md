@@ -5,8 +5,9 @@
  ## 1.Docker needs to be installed 
   
  the code for installing docker is given below(paste on windows powershell) 
+code:
   
- sudo apt-get -y install docker-compose 
+     sudo apt-get -y install docker-compose 
   
  ## 2. Install Golang-go 
   
