@@ -1,5 +1,5 @@
 # Blockchain
-This repository contains all my work related to blockchain# Deployment of ERC-20 and creating your own Token 
+This repository contains all my work related to blockchain# Deployment of ERC-20 and creating your own Token for blokchain practical examination.
 
  ## Account info:
 https://github.com/SumitSagar17/Blockchain/blob/main/Account%20info
