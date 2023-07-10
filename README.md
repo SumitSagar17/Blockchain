@@ -31,7 +31,7 @@ https://github.com/SumitSagar17/Blockchain/blob/main/Account%20info
  6. View your token name and address in dashboard 
 
 
- I named my token as "SUMIT SAGAR" and kept its symbol as "SAG" 
+ I named my token as "sumit sagar" and kept its symbol as "SUM" 
   
   
   
