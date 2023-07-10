@@ -15,7 +15,8 @@ https://github.com/SumitSagar17/Blockchain/blob/main/Account%20info
  4. Claim 0.01 GoerliETH or more. 
   
  Your metamask account should look something like this after mining the GoreliETH 
-![IMG_20230629_134700.jpg](https://github.com/SumitSagar17/Blockchain/assets/138099141/77faa724-2e0f-43ca-99c0-2337e449426f)
+![Screenshot (5)](https://github.com/SumitSagar17/Blockchain/assets/138099141/7a084f13-7dd3-4c11-9d40-44c184bcbc63)
+
 ## 20 lab 
   
  1. Go to given link: https://20lab.app/ (20lab is an ERC-20 token generator tool) 
@@ -32,11 +33,14 @@ https://github.com/SumitSagar17/Blockchain/blob/main/Account%20info
 
 
  I named my token as "sumit sagar" and kept its symbol as "SUM" 
-  
+ 
+  ![Screenshot (3)](https://github.com/SumitSagar17/Blockchain/assets/138099141/fab85398-8861-4fa7-bd19-4602b7a1558e)
+
   
   
   ## To see the transaction history of the token go to https://goerli.etherscan.io/ and paste your token address from 20 lab
-![IMG_20230629_142856.jpg](https://github.com/SumitSagar17/Blockchain/assets/138099141/32e80a80-862b-455d-9fe8-227bcd9a01d3)
+![Screenshot (6)](https://github.com/SumitSagar17/Blockchain/assets/138099141/10944886-8f20-4886-952e-59f16378b357)
+
   
  
   
